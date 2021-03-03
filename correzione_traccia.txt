@@ -1,1 +1,0 @@
-Attenzione nel testo del progetto 1 - COVID c'è un errore. Dove appare la scritta "il rapporto tra nuovi_tamponi e nuovi_positivi" dovrà essere inteso "il rapporto tra nuovi_positivi e nuovi_tamponi". Mi scuso per l'errore
