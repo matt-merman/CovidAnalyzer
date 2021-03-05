@@ -1,0 +1,7 @@
+organization=dibattistamattia
+projectKey=DiBattistaMattia_CpsProject
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.18011
+dashboardUrl=https://sonarcloud.io/dashboard?id=DiBattistaMattia_CpsProject
+ceTaskId=AXgDLB_NQUCmEwYinPzL
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXgDLB_NQUCmEwYinPzL
