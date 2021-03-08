@@ -10,7 +10,7 @@ Usando i dati della protezione civile italiana riguardante l'andamento delle inf
 
 Costruire funzioni per:
 
- - Graficare con un grafico a bolle geolocalizzato l'andamento di una osservabile scelta per una data scelta (vedi figura qui sotto), la dimensione della bolla rappresenta il valore della osservabile opportunamente scalato, mentre la posizione della bolla la geolocalizzazione della regione. 
+ - Graficare con un grafico a bolle geolocalizzato l'andamento di una osservabile per una data scelta (vedi figura qui sotto), la dimensione della bolla dovrà rappresentare il valore della osservabile opportunamente scalato, mentre la posizione della bolla la geolocalizzazione della regione. 
 
 <p align="center">
   <img src="grafico_bolle.png"/>
