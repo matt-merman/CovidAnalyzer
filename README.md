@@ -35,5 +35,5 @@ Costruire funzioni per:
 
  - Data
 
-###Dati ricavati:
+### Dati ricavati:
  - Rapporto tra nuovi positivi e nuovi tamponi
