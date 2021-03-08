@@ -1,8 +1,8 @@
-#UNIVERSITÀ DEGLI STUDI DI ROMA TOR VERGATA
-##Facoltà di Ingegneria Informatica
-##Corso: Complementi di Probabilità e Statistica
-##Docenti: Regoli Massimo; Monte Roberto
-##Progetto: 1-COVID
+# UNIVERSITÀ DEGLI STUDI DI ROMA TOR VERGATA
+## Facoltà di Ingegneria Informatica
+## Corso: Complementi di Probabilità e Statistica
+## Docenti: Regoli Massimo; Monte Roberto
+## Progetto: 1-COVID
 ## Gruppo: Linus_Torvalds_Group
 ## Partecipante: Di Battista Mattia
 ### Scopo del progetto:
