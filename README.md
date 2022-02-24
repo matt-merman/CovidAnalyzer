@@ -1,10 +1,3 @@
-# UNIVERSITÀ DEGLI STUDI DI ROMA TOR VERGATA
-## Facoltà di Ingegneria Informatica
-## Corso: Complementi di Probabilità e Statistica
-## Docenti: Regoli Massimo; Monte Roberto
-## Progetto: 1-COVID
-## Gruppo: Linus_Torvalds_Group
-## Partecipante: Di Battista Mattia
 [![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-black.svg)](https://sonarcloud.io/dashboard?id=DiBattistaMattia_CpsProject)
 ### Scopo del progetto:
 Usando i dati della protezione civile italiana riguardante l'andamento delle infezioni da COVID-19 (vedi https://github.com/pcm-dpc/COVID-19).
